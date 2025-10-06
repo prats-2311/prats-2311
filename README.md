@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prateek-srivastava-44b37910b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/prats-2311" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@cseCatalyst" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://prats2311.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>  <a href="https://www.youtube.com/@cseCatalyst" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="mailto:prateek.srivastava2311@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
